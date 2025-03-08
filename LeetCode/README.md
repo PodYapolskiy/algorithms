@@ -5,9 +5,9 @@
 
 <!-- Two pointers start -->
 
-| Problem                                                            | Solution                             |                Level                |
-| ------------------------------------------------------------------ | ------------------------------------ | :---------------------------------: |
-| [125](https://leetcode.com/problems/valid-palindrome/description/) | [Valid Palindrome](./python/0125.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| Problem                                                                              | Solutions              |                Level                |
+| ------------------------------------------------------------------------------------ | ---------------------- | :---------------------------------: |
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [py](./python/0125.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 
 <!-- Two pointers end -->
 
@@ -18,9 +18,9 @@
 
 <!-- Matrix start -->
 
-| Problem                                                        | Solution                          |              Level              |
-| -------------------------------------------------------------- | --------------------------------- | :-----------------------------: |
-| [54](https://leetcode.com/problems/spiral-matrix/description/) | [Spiral Matrix](./python/0054.py) | ${\textsf{\color{gold}Medium}}$ |
+| Problem                                                                       | Solutions              |              Level              |
+| ----------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
+| [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [py](./python/0054.py) | ${\textsf{\color{gold}Medium}}$ |
 
 <!-- Matrix end -->
 
@@ -31,9 +31,9 @@
 
 <!-- Hashmap start -->
 
-| Problem                                                                              | Solution                                               |                Level                |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------ | :---------------------------------: |
-| [387](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [First Unique Character in a String](./python/0387.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| Problem                                                                                                                  | Solutions              |                Level                |
+| ------------------------------------------------------------------------------------------------------------------------ | ---------------------- | :---------------------------------: |
+| [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [py](./python/0387.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 
 <!-- Hashmap end -->
 
@@ -44,11 +44,11 @@
 
 <!-- Linked List start -->
 
-| Problem                                                                            | Solution                                             |                Level                |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------- | :---------------------------------: |
-| [160](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Intersection of Two Linked Lists](./python/0160.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [206](https://leetcode.com/problems/reverse-linked-list/description/)              | [Reverse Linked List](./python/0206.py)              | ${\textsf{\color{lightgreen}Easy}}$ |
-| [237](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)     | [Delete Node in a Linked List](./python/0237.py)     |   ${\textsf{\color{gold}Medium}}$   |
+| Problem                                                                                                              | Solutions              |                Level                |
+| -------------------------------------------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
+| [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [py](./python/0160.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                           | [py](./python/0206.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)         | [py](./python/0237.py) |   ${\textsf{\color{gold}Medium}}$   |
 
 <!-- Linked List end -->
 
@@ -59,10 +59,10 @@
 
 <!-- Binary Tree start -->
 
-| Problem                                                                                   | Solution                                                    |                Level                |
-| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------- | :---------------------------------: |
-| [94](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)            | [Binary Tree Inorder Traversal](./python/0094.py)           | ${\textsf{\color{lightgreen}Easy}}$ |
-| [236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Lowest Common Ancestor of a Binary Tree](./python/0236.py) |   ${\textsf{\color{gold}Medium}}$   |
+| Problem                                                                                                                            | Solutions              |                Level                |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
+| [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)                      | [py](./python/0094.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [py](./python/0236.py) |   ${\textsf{\color{gold}Medium}}$   |
 
 <!-- Binary Tree end -->
 
@@ -71,9 +71,9 @@
 
 <!-- Binary Search Tree start -->
 
-| Problem                                                                      | Solution                                        |              Level              |
-| ---------------------------------------------------------------------------- | ----------------------------------------------- | :-----------------------------: |
-| [98](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Validate Binary Search Tree](./python/0098.py) | ${\textsf{\color{gold}Medium}}$ |
+| Problem                                                                                                   | Solutions              |              Level              |
+| --------------------------------------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
+| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [py](./python/0098.py) | ${\textsf{\color{gold}Medium}}$ |
 
 <!-- Binary Search Tree end -->
 
@@ -84,9 +84,9 @@
 
 <!-- Math start -->
 
-| Problem                                                          | Solution                           |                Level                |
-| ---------------------------------------------------------------- | ---------------------------------- | :---------------------------------: |
-| [326](https://leetcode.com/problems/power-of-three/description/) | [Power of Three](./python/0326.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| Problem                                                                          | Solutions              |                Level                |
+| -------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
+| [326. Power of Three](https://leetcode.com/problems/power-of-three/description/) | [py](./python/0326.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 
 <!-- Math end -->
 
@@ -97,10 +97,10 @@
 
 <!-- Dynamic Programming start -->
 
-| Problem                                                           | Solution                            |              Level              |
-| ----------------------------------------------------------------- | ----------------------------------- | :-----------------------------: |
-| [62](https://leetcode.com/problems/unique-paths/description/)     | [Unique Paths](./python/0062.py)    | ${\textsf{\color{gold}Medium}}$ |
-| [279](https://leetcode.com/problems/perfect-squares/description/) | [Perfect Squares](./python/0279.py) | ${\textsf{\color{gold}Medium}}$ |
+| Problem                                                                            | Solutions              |              Level              |
+| ---------------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
+| [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/)        | [py](./python/0062.py) | ${\textsf{\color{gold}Medium}}$ |
+| [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [py](./python/0279.py) | ${\textsf{\color{gold}Medium}}$ |
 
 <!-- Dynamic Programming end -->
 
@@ -115,13 +115,13 @@
 <summary><code>select</code></summary>
 <br>
 
-| Problem                                                                            | Solution                                          |                Level                |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------- | :---------------------------------: |
-| [1757](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) | [Recyclable and Low Fat Products](./sql/1757.sql) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [584](https://leetcode.com/problems/find-customer-referee/description/)            | [Find Customer Referee](./sql/0584.sql)           | ${\textsf{\color{lightgreen}Easy}}$ |
-| [595](https://leetcode.com/problems/big-countries/description/)                    | [Big Countries](./sql/0595.sql)                   | ${\textsf{\color{lightgreen}Easy}}$ |
-| [1148](https://leetcode.com/problems/article-views-i/description/)                 | [Article Views I](./sql/1148.sql)                 | ${\textsf{\color{lightgreen}Easy}}$ |
-| [1683](https://leetcode.com/problems/invalid-tweets/description/)                  | [Invalid Tweets](./sql/1683.sql)                  | ${\textsf{\color{lightgreen}Easy}}$ |
+| Problem                                                                                                             | Solutions                    |                Level                |
+| ------------------------------------------------------------------------------------------------------------------- | ---------------------------- | :---------------------------------: |
+| [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) | [PostgreSQL](./sql/1757.sql) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/)                      | [PostgreSQL](./sql/0584.sql) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [595. Big Countries](https://leetcode.com/problems/big-countries/description/)                                      | [PostgreSQL](./sql/0595.sql) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [1148. Article Views I](https://leetcode.com/problems/article-views-i/description/)                                 | [PostgreSQL](./sql/1148.sql) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/)                                   | [PostgreSQL](./sql/1683.sql) | ${\textsf{\color{lightgreen}Easy}}$ |
 
 </details>
 
@@ -129,12 +129,12 @@
 <summary><code>basic joins</code></summary>
 <br>
 
-| Problem                                                                                                    | Solution                                                                 |                Level                |
-| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | :---------------------------------: |
-| [1378](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/)          | [Replace Employee ID With The Unique Identifier](./sql/1378.sql)         | ${\textsf{\color{lightgreen}Easy}}$ |
-| [1068](https://leetcode.com/problems/product-sales-analysis-i/description/)                                | [Product Sales Analysis I](./sql/1068.sql)                               | ${\textsf{\color{lightgreen}Easy}}$ |
-| [1581](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?) | [Customer Who Visited but Did Not Make Any Transactions](./sql/1581.sql) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [197](https://leetcode.com/problems/rising-temperature/description/)                                       | [Rising Temperature](./sql/0197.sql)                                     | ${\textsf{\color{lightgreen}Easy}}$ |
+| Problem                                                                                                                                                            | Solutions                    |                Level                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- | :---------------------------------: |
+| [1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/)                  | [PostgreSQL](./sql/1378.sql) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/)                                                              | [PostgreSQL](./sql/1068.sql) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?) | [PostgreSQL](./sql/1581.sql) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)                                                                           | [PostgreSQL](./sql/0197.sql) | ${\textsf{\color{lightgreen}Easy}}$ |
 
 <!-- | []()                                                                                                       | []()                                                                 | ${\textsf{\color{lightgreen}Easy}}$ |
 | []()                                                                                                       | []()                                                                 | ${\textsf{\color{lightgreen}Easy}}$ |
