@@ -14,6 +14,19 @@
 </details>
 
 <details open>
+<summary><h2>Sliding Window</h2></summary>
+
+<!-- Sliding Window start -->
+
+| Problem                                                                                                                                        | Solutions              |              Level              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [py](./python/0003.py) | ${\textsf{\color{gold}Medium}}$ |
+
+<!-- Sliding Window end -->
+
+</details>
+
+<details open>
 <summary><h2>Matrix</h2></summary>
 
 <!-- Matrix start -->
