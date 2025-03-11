@@ -18,10 +18,11 @@
 
 <!-- Two pointers start -->
 
-| Problem                                                                                    | Solutions              |                Level                |
-| ------------------------------------------------------------------------------------------ | ---------------------- | :---------------------------------: |
-| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)       | [py](./python/0125.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [py](./python/0680.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| Problem                                                                                            | Solutions                                    |                Level                |
+| -------------------------------------------------------------------------------------------------- | -------------------------------------------- | :---------------------------------: |
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)               | [py](./python/0125.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
+| [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) | [py](./python/0658.py) [c++](./c++/0658.cpp) |   ${\textsf{\color{gold}Medium}}$   |
+| [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)         | [py](./python/0680.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
 
 <!-- Two pointers end -->
 
