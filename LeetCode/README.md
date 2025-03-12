@@ -123,10 +123,11 @@
 
 <!-- Dynamic Programming start -->
 
-| Problem                                                                            | Solutions              |              Level              |
-| ---------------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
-| [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/)        | [py](./python/0062.py) | ${\textsf{\color{gold}Medium}}$ |
-| [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [py](./python/0279.py) | ${\textsf{\color{gold}Medium}}$ |
+| Problem                                                                                                      | Solutions              |              Level              |
+| ------------------------------------------------------------------------------------------------------------ | ---------------------- | :-----------------------------: |
+| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [py](./python/0005.py) | ${\textsf{\color{gold}Medium}}$ |
+| [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/)                                  | [py](./python/0062.py) | ${\textsf{\color{gold}Medium}}$ |
+| [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)                           | [py](./python/0279.py) | ${\textsf{\color{gold}Medium}}$ |
 
 <!-- Dynamic Programming end -->
 
