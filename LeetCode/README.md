@@ -3,13 +3,10 @@
 <details open>
 <summary><h2>Array</h2></summary>
 
-<!-- Array start -->
-
 | Problem                                                                                                                    | Solutions              |              Level              |
 | -------------------------------------------------------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
+| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                          | [py](./python/0056.py) | ${\textsf{\color{gold}Medium}}$ |
 | [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) | [py](./python/0849.py) | ${\textsf{\color{gold}Medium}}$ |
-
-<!-- Array end -->
 
 </details>
 
