@@ -109,6 +109,15 @@
 </details>
 -->
 
+<details open>
+<summary><h2>Графы</h2></summary>
+
+| Проблема                                                                            | Решения                |               Сложность               |
+| ----------------------------------------------------------------------------------- | ---------------------- | :-----------------------------------: |
+| [7. Поиск в глубину](https://coderun.yandex.ru/problem/search-in-depth/description) | [py](./python/0007.py) | ${\textsf{\color{lightgreen}Лёгкая}}$ |
+
+</details>
+
 <!--
 <details open>
 <summary><h2>Math</h2></summary>
