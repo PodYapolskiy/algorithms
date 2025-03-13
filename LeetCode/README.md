@@ -3,10 +3,11 @@
 <details open>
 <summary><h2>Array</h2></summary>
 
-| Problem                                                                                                                    | Solutions              |              Level              |
-| -------------------------------------------------------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
-| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                          | [py](./python/0056.py) | ${\textsf{\color{gold}Medium}}$ |
-| [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) | [py](./python/0849.py) | ${\textsf{\color{gold}Medium}}$ |
+| Problem                                                                                                                    | Solutions              |                Level                |
+| -------------------------------------------------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
+| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                          | [py](./python/0056.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [268. Missing Number](https://leetcode.com/problems/missing-number/description/)                                           | [py](./python/0268.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) | [py](./python/0849.py) |   ${\textsf{\color{gold}Medium}}$   |
 
 </details>
 
