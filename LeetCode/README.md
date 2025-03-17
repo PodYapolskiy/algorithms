@@ -80,6 +80,7 @@
 | Problem                                                                                                              | Solutions              |                Level                |
 | -------------------------------------------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)  | [py](./python/0019.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)                                               | [py](./python/0146.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [py](./python/0160.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                           | [py](./python/0206.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)         | [py](./python/0237.py) |   ${\textsf{\color{gold}Medium}}$   |
