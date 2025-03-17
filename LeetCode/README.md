@@ -58,13 +58,18 @@
 <details open>
 <summary><h2>Hashmap</h2></summary>
 
-<!-- Hashmap start -->
-
 | Problem                                                                                                                  | Solutions              |                Level                |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------- | :---------------------------------: |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [py](./python/0387.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 
-<!-- Hashmap end -->
+</details>
+
+<details open>
+<summary><h2>Stack</h2></summary>
+
+| Problem                                                                       | Solutions              |              Level              |
+| ----------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
+| [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [py](./python/0071.py) | ${\textsf{\color{gold}Medium}}$ |
 
 </details>
 
