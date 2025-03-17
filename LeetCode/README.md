@@ -13,6 +13,15 @@
 </details>
 
 <details open>
+<summary><h2>String</h2></summary>
+
+| Problem                                                                                  | Solutions              |              Level              |
+| ---------------------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
+| [443. String Compression](https://leetcode.com/problems/string-compression/description/) | [py](./python/0443.py) | ${\textsf{\color{gold}Medium}}$ |
+
+</details>
+
+<details open>
 <summary><h2>Two pointers</h2></summary>
 
 | Problem                                                                                            | Solutions                                    |                Level                |
