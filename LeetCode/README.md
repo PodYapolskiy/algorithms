@@ -67,6 +67,7 @@
 | Problem                                                                                                                  | Solutions              |                Level                |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------- | :---------------------------------: |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)                                          | [py](./python/0049.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)           | [py](./python/0350.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [py](./python/0387.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 
 </details>
