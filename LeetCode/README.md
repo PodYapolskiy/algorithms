@@ -114,13 +114,18 @@
 <details open>
 <summary><h2>Binary Search Tree</h2></summary>
 
-<!-- Binary Search Tree start -->
-
 | Problem                                                                                                   | Solutions              |              Level              |
 | --------------------------------------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [py](./python/0098.py) | ${\textsf{\color{gold}Medium}}$ |
 
-<!-- Binary Search Tree end -->
+</details>
+
+<details open>
+<summary><h2>Prefix</h2></summary>
+
+| Problem                                                                                                      | Solutions              |              Level              |
+| ------------------------------------------------------------------------------------------------------------ | ---------------------- | :-----------------------------: |
+| [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [py](./python/0238.py) | ${\textsf{\color{gold}Medium}}$ |
 
 </details>
 
