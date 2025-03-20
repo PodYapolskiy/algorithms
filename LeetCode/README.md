@@ -127,6 +127,15 @@
 </details>
 
 <details open>
+<summary><h2>Binary Search</h2></summary>
+
+| Problem                                                                                                         | Solutions              |              Level              |
+| --------------------------------------------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
+| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [py](./python/0033.py) | ${\textsf{\color{gold}Medium}}$ |
+
+</details>
+
+<details open>
 <summary><h2>Math</h2></summary>
 
 <!-- Math start -->
