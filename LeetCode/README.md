@@ -3,12 +3,13 @@
 <details open>
 <summary><h2>Array</h2></summary>
 
-| Problem                                                                                                                    | Solutions              |                Level                |
-| -------------------------------------------------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
-| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                          | [py](./python/0056.py) |   ${\textsf{\color{gold}Medium}}$   |
-| [268. Missing Number](https://leetcode.com/problems/missing-number/description/)                                           | [py](./python/0268.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) | [py](./python/0849.py) |   ${\textsf{\color{gold}Medium}}$   |
-| [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)                     | [py](./python/0977.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| Problem                                                                                                                                                  | Solutions              |                Level                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
+| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                                                        | [py](./python/0056.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [268. Missing Number](https://leetcode.com/problems/missing-number/description/)                                                                         | [py](./python/0268.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)                               | [py](./python/0849.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)                                                   | [py](./python/0977.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/) | [py](./python/1493.py) |   ${\textsf{\color{gold}Medium}}$   |
 
 </details>
 
