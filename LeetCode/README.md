@@ -38,28 +38,21 @@
 <details open>
 <summary><h2>Sliding Window</h2></summary>
 
-<!-- Sliding Window start -->
-
 | Problem                                                                                                                                        | Solutions              |              Level              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [py](./python/0003.py) | ${\textsf{\color{gold}Medium}}$ |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)                                         | [py](./python/0209.py) | ${\textsf{\color{gold}Medium}}$ |
 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)                                          | [py](./python/1004.py) | ${\textsf{\color{gold}Medium}}$ |
 
-<!-- Sliding Window end -->
-
 </details>
 
 <details open>
 <summary><h2>Matrix</h2></summary>
 
-<!-- Matrix start -->
-
 | Problem                                                                       | Solutions              |              Level              |
 | ----------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
+| [48. Rotate Image ](https://leetcode.com/problems/rotate-image/)              | [py](./python/0048.py) | ${\textsf{\color{gold}Medium}}$ |
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [py](./python/0054.py) | ${\textsf{\color{gold}Medium}}$ |
-
-<!-- Matrix end -->
 
 </details>
 
@@ -102,14 +95,10 @@
 <details open>
 <summary><h2>Binary Tree</h2></summary>
 
-<!-- Binary Tree start -->
-
 | Problem                                                                                                                            | Solutions              |                Level                |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)                      | [py](./python/0094.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [py](./python/0236.py) |   ${\textsf{\color{gold}Medium}}$   |
-
-<!-- Binary Tree end -->
 
 <details open>
 <summary><h2>Binary Search Tree</h2></summary>
@@ -142,20 +131,14 @@
 <details open>
 <summary><h2>Math</h2></summary>
 
-<!-- Math start -->
-
 | Problem                                                                          | Solutions              |                Level                |
 | -------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
 | [326. Power of Three](https://leetcode.com/problems/power-of-three/description/) | [py](./python/0326.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-
-<!-- Math end -->
 
 </details>
 
 <details open>
 <summary><h2>Dynamic Programming</h2></summary>
-
-<!-- Dynamic Programming start -->
 
 | Problem                                                                                                      | Solutions              |              Level              |
 | ------------------------------------------------------------------------------------------------------------ | ---------------------- | :-----------------------------: |
@@ -163,14 +146,10 @@
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/)                                  | [py](./python/0062.py) | ${\textsf{\color{gold}Medium}}$ |
 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)                           | [py](./python/0279.py) | ${\textsf{\color{gold}Medium}}$ |
 
-<!-- Dynamic Programming end -->
-
 </details>
 
-<details open>
+<details>
 <summary><h2>SQL</h2></summary>
-
-<!-- SQL start -->
 
 <details open>
 <summary><code>select</code></summary>
@@ -202,7 +181,5 @@
 | []()                                                                                                       | []()                                                                 | ${\textsf{\color{lightgreen}Easy}}$ | -->
 
 </details>
-
-<!-- SQL end -->
 
 </details>
