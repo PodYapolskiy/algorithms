@@ -132,9 +132,10 @@
 <details open>
 <summary><h2>Binary Search</h2></summary>
 
-| Problem                                                                                                         | Solutions              |              Level              |
-| --------------------------------------------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
-| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [py](./python/0033.py) | ${\textsf{\color{gold}Medium}}$ |
+| Problem                                                                                                                                                           | Solutions              |              Level              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
+| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)                                                   | [py](./python/0033.py) | ${\textsf{\color{gold}Medium}}$ |
+| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [py](./python/0034.py) | ${\textsf{\color{gold}Medium}}$ |
 
 </details>
 
