@@ -65,6 +65,7 @@
 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)           | [py](./python/0350.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)               | [py](./python/0380.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [py](./python/0387.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)                           | [py](./python/0567.py) |   ${\textsf{\color{gold}Medium}}$   |
 
 </details>
 
