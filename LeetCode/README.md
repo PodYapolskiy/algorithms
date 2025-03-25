@@ -121,6 +121,15 @@
 </details>
 
 <details open>
+<summary><h2>Backtracking</h2></summary>
+
+| Problem                                                                                     | Solutions              |              Level              |
+| ------------------------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
+| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [py](./python/0022.py) | ${\textsf{\color{gold}Medium}}$ |
+
+</details>
+
+<details open>
 <summary><h2>Binary Search</h2></summary>
 
 | Problem                                                                                                                                                           | Solutions              |              Level              |
