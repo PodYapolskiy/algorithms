@@ -8,6 +8,7 @@
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)                                                                | [py](./python/0042.py) |    ${\textsf{\color{red}Hard}}$     |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/)                                                                                                | [py](./python/0055.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                                                        | [py](./python/0056.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)                                                                  | [py](./python/0088.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [268. Missing Number](https://leetcode.com/problems/missing-number/description/)                                                                         | [py](./python/0268.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)                               | [py](./python/0849.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)                                                   | [py](./python/0977.py) | ${\textsf{\color{lightgreen}Easy}}$ |
