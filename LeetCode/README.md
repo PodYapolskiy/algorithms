@@ -78,6 +78,7 @@
 | Problem                                                                                                              | Solutions              |                Level                |
 | -------------------------------------------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/)                                        | [py](./python/0071.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)                                | [py](./python/0085.py) |    ${\textsf{\color{red}Hard}}$     |
 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [py](./python/0150.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)         | [py](./python/0232.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 
