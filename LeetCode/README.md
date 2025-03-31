@@ -150,6 +150,15 @@
 </details>
 
 <details open>
+<summary><h2>Heap</h2></summary>
+
+| Problem                                                                                     | Solutions              |            Level             |
+| ------------------------------------------------------------------------------------------- | ---------------------- | :--------------------------: |
+| [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [py](./python/0023.py) | ${\textsf{\color{red}Hard}}$ |
+
+</details>
+
+<details open>
 <summary><h2>Math</h2></summary>
 
 | Problem                                                                          | Solutions              |                Level                |
