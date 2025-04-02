@@ -150,11 +150,12 @@
 <details open>
 <summary><h2>Binary Search</h2></summary>
 
-| Problem                                                                                                                                                           | Solutions              |              Level              |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
-| [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)                                                          | [py](./python/0004.py) |  ${\textsf{\color{red}Hard}}$   |
-| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)                                                   | [py](./python/0033.py) | ${\textsf{\color{gold}Medium}}$ |
-| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [py](./python/0034.py) | ${\textsf{\color{gold}Medium}}$ |
+| Problem                                                                                                                                                           | Solutions              |                Level                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
+| [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)                                                          | [py](./python/0004.py) |    ${\textsf{\color{red}Hard}}$     |
+| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)                                                   | [py](./python/0033.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [py](./python/0034.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)                                                                   | [py](./python/0035.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 
 </details>
 
