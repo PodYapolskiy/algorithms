@@ -32,6 +32,7 @@
 
 | Problem                                                                                                                   | Solutions                                    |                Level                |
 | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | :---------------------------------: |
+| [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)                     | [py](./python/0011.py)                       |   ${\textsf{\color{gold}Medium}}$   |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [py](./python/0026.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
 | [27. Remove Element](https://leetcode.com/problems/remove-element/description/)                                           | [py](./python/0027.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                                      | [py](./python/0125.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
