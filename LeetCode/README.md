@@ -30,14 +30,15 @@
 <details open>
 <summary><h2>Two pointers</h2></summary>
 
-| Problem                                                                                            | Solutions                                    |                Level                |
-| -------------------------------------------------------------------------------------------------- | -------------------------------------------- | :---------------------------------: |
-| [27. Remove Element](https://leetcode.com/problems/remove-element/description/)                    | [py](./python/0027.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
-| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)               | [py](./python/0125.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
-| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                         | [py](./python/0283.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
-| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)                   | [py](./python/0392.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
-| [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) | [py](./python/0658.py) [c++](./c++/0658.cpp) |   ${\textsf{\color{gold}Medium}}$   |
-| [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)         | [py](./python/0680.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
+| Problem                                                                                                                   | Solutions                                    |                Level                |
+| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | :---------------------------------: |
+| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [py](./python/0026.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
+| [27. Remove Element](https://leetcode.com/problems/remove-element/description/)                                           | [py](./python/0027.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                                      | [py](./python/0125.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
+| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                | [py](./python/0283.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
+| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)                                          | [py](./python/0392.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
+| [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/)                        | [py](./python/0658.py) [c++](./c++/0658.cpp) |   ${\textsf{\color{gold}Medium}}$   |
+| [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)                                | [py](./python/0680.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
 
 </details>
 
