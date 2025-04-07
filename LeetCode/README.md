@@ -73,6 +73,7 @@
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------- | :---------------------------------: |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/description/)                                                         | [py](./python/0001.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)                                          | [py](./python/0049.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                           | [py](./python/0242.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)                                             | [py](./python/0290.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)           | [py](./python/0350.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)               | [py](./python/0380.py) |   ${\textsf{\color{gold}Medium}}$   |
