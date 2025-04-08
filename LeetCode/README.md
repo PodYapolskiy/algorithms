@@ -91,6 +91,7 @@
 
 | Problem                                                                                                              | Solutions              |                Level                |
 | -------------------------------------------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)                                | [py](./python/0020.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/)                                        | [py](./python/0071.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)                                | [py](./python/0085.py) |    ${\textsf{\color{red}Hard}}$     |
 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [py](./python/0150.py) |   ${\textsf{\color{gold}Medium}}$   |
