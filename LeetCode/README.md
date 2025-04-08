@@ -106,6 +106,7 @@
 | -------------------------------------------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)  | [py](./python/0019.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                      | [py](./python/0021.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                               | [py](./python/0141.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)                                               | [py](./python/0146.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [py](./python/0160.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                           | [py](./python/0206.py) | ${\textsf{\color{lightgreen}Easy}}$ |
