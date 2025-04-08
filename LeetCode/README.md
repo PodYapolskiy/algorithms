@@ -75,6 +75,7 @@
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------- | :---------------------------------: |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/description/)                                                         | [py](./python/0001.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)                                          | [py](./python/0049.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)                                 | [py](./python/0205.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)                           | [py](./python/0219.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                           | [py](./python/0242.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)                                             | [py](./python/0290.py) | ${\textsf{\color{lightgreen}Easy}}$ |
