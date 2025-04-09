@@ -202,6 +202,7 @@
 
 | Problem                                                                          | Solutions              |                Level                |
 | -------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
+| [202. Happy Number](https://leetcode.com/problems/happy-number/description/)     | [py](./python/0202.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [326. Power of Three](https://leetcode.com/problems/power-of-three/description/) | [py](./python/0326.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 
 </details>
