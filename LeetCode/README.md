@@ -189,6 +189,15 @@
 </details>
 
 <details open>
+<summary><h2>Bit Manipulation</h2></summary>
+
+| Problem                                                                        | Solutions              |                Level                |
+| ------------------------------------------------------------------------------ | ---------------------- | :---------------------------------: |
+| [136. Single Number](https://leetcode.com/problems/single-number/description/) | [go](./golang/0136.go) | ${\textsf{\color{lightgreen}Easy}}$ |
+
+</details>
+
+<details open>
 <summary><h2>Math</h2></summary>
 
 | Problem                                                                          | Solutions              |                Level                |
