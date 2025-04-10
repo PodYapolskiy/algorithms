@@ -146,9 +146,10 @@
 <details open>
 <summary><h2>Graph</h2></summary>
 
-| Problem                                                                                        | Solutions              |            Level             |
-| ---------------------------------------------------------------------------------------------- | ---------------------- | :--------------------------: |
-| [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/) | [py](./python/0322.py) | ${\textsf{\color{red}Hard}}$ |
+| Problem                                                                                        | Solutions              |              Level              |
+| ---------------------------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
+| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)         | [py](./python/0200.py) | ${\textsf{\color{gold}Medium}}$ |
+| [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/) | [py](./python/0322.py) |  ${\textsf{\color{red}Hard}}$   |
 
 </details>
 
