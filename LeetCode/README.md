@@ -9,6 +9,7 @@
 | [55. Jump Game](https://leetcode.com/problems/jump-game/)                                                                                                | [py](./python/0055.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                                                        | [py](./python/0056.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)                                                                  | [py](./python/0088.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)                                       | [py](./python/0121.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/description/)                                                                     | [py](./python/0169.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/)                                                                             | [py](./python/0189.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)                                                                         | [py](./python/0228.py) | ${\textsf{\color{lightgreen}Easy}}$ |
