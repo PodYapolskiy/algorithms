@@ -17,6 +17,7 @@
 | [356. Line Reflection](https://leetcode.com/problems/line-reflection/description/)                                                                       | [py](./python/0356.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)                               | [py](./python/0849.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)                                                   | [py](./python/0977.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)                                               | [py](./python/0986.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/description/)  | [py](./python/1450.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/) | [py](./python/1493.py) |   ${\textsf{\color{gold}Medium}}$   |
 
