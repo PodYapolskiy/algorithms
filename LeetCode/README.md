@@ -33,6 +33,7 @@
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [go](./golang/0028.go) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                                           | [py](./python/0058.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [443. String Compression](https://leetcode.com/problems/string-compression/description/)                                                                | [py](./python/0443.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/description/)                                                       | [py](./python/1446.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 
 </details>
 
