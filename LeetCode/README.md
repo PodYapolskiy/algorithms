@@ -135,6 +135,7 @@
 | [100. Same Tree](https://leetcode.com/problems/same-tree/description/)                                                             | [py](./python/0100.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)                                                   | [py](./python/0101.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)                       | [py](./python/0104.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
+| [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)                                       | [py](./python/0110.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                                           | [py](./python/0226.py) [go](./golang/0226.go) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [py](./python/0236.py)                        |   ${\textsf{\color{gold}Medium}}$   |
 
