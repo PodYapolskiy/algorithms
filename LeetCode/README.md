@@ -215,10 +215,11 @@
 <details open>
 <summary><h2>Math</h2></summary>
 
-| Problem                                                                          | Solutions              |                Level                |
-| -------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
-| [202. Happy Number](https://leetcode.com/problems/happy-number/description/)     | [py](./python/0202.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [326. Power of Three](https://leetcode.com/problems/power-of-three/description/) | [py](./python/0326.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| Problem                                                                             | Solutions              |                Level                |
+| ----------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
+| [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) | [py](./python/0043.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [202. Happy Number](https://leetcode.com/problems/happy-number/description/)        | [py](./python/0202.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [326. Power of Three](https://leetcode.com/problems/power-of-three/description/)    | [py](./python/0326.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 
 </details>
 
