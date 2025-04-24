@@ -84,19 +84,20 @@
 <details open>
 <summary><h2>Hashmap</h2></summary>
 
-| Problem                                                                                                                  | Solutions              |                Level                |
-| ------------------------------------------------------------------------------------------------------------------------ | ---------------------- | :---------------------------------: |
-| [1. Two Sum](https://leetcode.com/problems/two-sum/description/)                                                         | [py](./python/0001.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)                                          | [py](./python/0049.py) |   ${\textsf{\color{gold}Medium}}$   |
-| [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)                                 | [py](./python/0205.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)                           | [py](./python/0219.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                           | [py](./python/0242.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)                                             | [py](./python/0290.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)           | [py](./python/0350.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)               | [py](./python/0380.py) |   ${\textsf{\color{gold}Medium}}$   |
-| [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)                                               | [py](./python/0383.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [py](./python/0387.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)                           | [py](./python/0567.py) |   ${\textsf{\color{gold}Medium}}$   |
+| Problem                                                                                                                                   | Solutions              |                Level                |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/description/)                                                                          | [py](./python/0001.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)                                                           | [py](./python/0049.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)                                                  | [py](./python/0205.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)                                            | [py](./python/0219.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                                            | [py](./python/0242.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)                                                              | [py](./python/0290.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)                            | [py](./python/0350.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)                                | [py](./python/0380.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)                                                                | [py](./python/0383.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)                  | [py](./python/0387.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)                                            | [py](./python/0567.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/) | [py](./python/2657.py) |   ${\textsf{\color{gold}Medium}}$   |
 
 </details>
 
