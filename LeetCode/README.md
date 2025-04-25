@@ -72,12 +72,13 @@
 <details open>
 <summary><h2>Matrix</h2></summary>
 
-| Problem                                                                             | Solutions              |              Level              |
-| ----------------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
-| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)         | [py](./python/0036.py) | ${\textsf{\color{gold}Medium}}$ |
-| [48. Rotate Image](https://leetcode.com/problems/rotate-image/)                     | [py](./python/0048.py) | ${\textsf{\color{gold}Medium}}$ |
-| [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)       | [py](./python/0054.py) | ${\textsf{\color{gold}Medium}}$ |
-| [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | [py](./python/0059.py) | ${\textsf{\color{gold}Medium}}$ |
+| Problem                                                                                     | Solutions              |                Level                |
+| ------------------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
+| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)                 | [py](./python/0036.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [48. Rotate Image](https://leetcode.com/problems/rotate-image/)                             | [py](./python/0048.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)               | [py](./python/0054.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)         | [py](./python/0059.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/) | [py](./python/1572.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 
 </details>
 
