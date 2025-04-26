@@ -122,6 +122,7 @@
 
 | Problem                                                                                                              | Solutions              |                Level                |
 | -------------------------------------------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
+| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)                                     | [py](./python/0002.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)  | [py](./python/0019.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                      | [py](./python/0021.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                               | [py](./python/0141.py) | ${\textsf{\color{lightgreen}Easy}}$ |
