@@ -62,12 +62,13 @@
 <details open>
 <summary><h2>Sliding Window</h2></summary>
 
-| Problem                                                                                                                                        | Solutions              |              Level              |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | :-----------------------------: |
-| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [py](./python/0003.py) | ${\textsf{\color{gold}Medium}}$ |
-| [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)                                         | [py](./python/0209.py) | ${\textsf{\color{gold}Medium}}$ |
-| [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)                                 | [py](./python/0438.py) | ${\textsf{\color{gold}Medium}}$ |
-| [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)                                          | [py](./python/1004.py) | ${\textsf{\color{gold}Medium}}$ |
+| Problem                                                                                                                                        | Solutions                                     |              Level              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | :-----------------------------: |
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [py](./python/0003.py)                        | ${\textsf{\color{gold}Medium}}$ |
+| [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)                                         | [py](./python/0209.py)                        | ${\textsf{\color{gold}Medium}}$ |
+| [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)             | [py](./python/0424.py) [go](./golang/0424.go) | ${\textsf{\color{gold}Medium}}$ |
+| [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)                                 | [py](./python/0438.py)                        | ${\textsf{\color{gold}Medium}}$ |
+| [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)                                          | [py](./python/1004.py)                        | ${\textsf{\color{gold}Medium}}$ |
 
 </details>
 
