@@ -3,23 +3,24 @@
 <details open>
 <summary><h2>Array</h2></summary>
 
-| Problem                                                                                                                                                  | Solutions              |                Level                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | :---------------------------------: |
-| [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)                                                                | [py](./python/0042.py) |    ${\textsf{\color{red}Hard}}$     |
-| [55. Jump Game](https://leetcode.com/problems/jump-game/)                                                                                                | [py](./python/0055.py) |   ${\textsf{\color{gold}Medium}}$   |
-| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                                                        | [py](./python/0056.py) |   ${\textsf{\color{gold}Medium}}$   |
-| [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)                                                                  | [py](./python/0088.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)                                       | [py](./python/0121.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [169. Majority Element](https://leetcode.com/problems/majority-element/description/)                                                                     | [py](./python/0169.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/)                                                                             | [py](./python/0189.py) |   ${\textsf{\color{gold}Medium}}$   |
-| [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)                                                                         | [py](./python/0228.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [268. Missing Number](https://leetcode.com/problems/missing-number/description/)                                                                         | [py](./python/0268.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [356. Line Reflection](https://leetcode.com/problems/line-reflection/description/)                                                                       | [py](./python/0356.py) |   ${\textsf{\color{gold}Medium}}$   |
-| [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)                               | [py](./python/0849.py) |   ${\textsf{\color{gold}Medium}}$   |
-| [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)                                                   | [py](./python/0977.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)                                               | [py](./python/0986.py) |   ${\textsf{\color{gold}Medium}}$   |
-| [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/description/)  | [py](./python/1450.py) | ${\textsf{\color{lightgreen}Easy}}$ |
-| [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/) | [py](./python/1493.py) |   ${\textsf{\color{gold}Medium}}$   |
+| Problem                                                                                                                                                  | Solutions                                     |                Level                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | :---------------------------------: |
+| [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)                                                                | [py](./python/0042.py)                        |    ${\textsf{\color{red}Hard}}$     |
+| [55. Jump Game](https://leetcode.com/problems/jump-game/)                                                                                                | [py](./python/0055.py)                        |   ${\textsf{\color{gold}Medium}}$   |
+| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)                                                                      | [py](./python/0053.py) [py](./golang/0053.go) |   ${\textsf{\color{gold}Medium}}$   |
+| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                                                        | [py](./python/0056.py)                        |   ${\textsf{\color{gold}Medium}}$   |
+| [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)                                                                  | [py](./python/0088.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)                                       | [py](./python/0121.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
+| [169. Majority Element](https://leetcode.com/problems/majority-element/description/)                                                                     | [py](./python/0169.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
+| [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/)                                                                             | [py](./python/0189.py)                        |   ${\textsf{\color{gold}Medium}}$   |
+| [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)                                                                         | [py](./python/0228.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
+| [268. Missing Number](https://leetcode.com/problems/missing-number/description/)                                                                         | [py](./python/0268.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
+| [356. Line Reflection](https://leetcode.com/problems/line-reflection/description/)                                                                       | [py](./python/0356.py)                        |   ${\textsf{\color{gold}Medium}}$   |
+| [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/)                               | [py](./python/0849.py)                        |   ${\textsf{\color{gold}Medium}}$   |
+| [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)                                                   | [py](./python/0977.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
+| [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)                                               | [py](./python/0986.py)                        |   ${\textsf{\color{gold}Medium}}$   |
+| [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/description/)  | [py](./python/1450.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
+| [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/) | [py](./python/1493.py)                        |   ${\textsf{\color{gold}Medium}}$   |
 
 </details>
 
