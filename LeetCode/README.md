@@ -7,7 +7,7 @@
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | :---------------------------------: |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)                                                                | [py](./python/0042.py)                        |    ${\textsf{\color{red}Hard}}$     |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/)                                                                                                | [py](./python/0055.py)                        |   ${\textsf{\color{gold}Medium}}$   |
-| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)                                                                      | [py](./python/0053.py) [py](./golang/0053.go) |   ${\textsf{\color{gold}Medium}}$   |
+| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)                                                                      | [py](./python/0053.py) [go](./golang/0053.go) |   ${\textsf{\color{gold}Medium}}$   |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                                                        | [py](./python/0056.py)                        |   ${\textsf{\color{gold}Medium}}$   |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)                                                                  | [py](./python/0088.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)                                       | [py](./python/0121.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
@@ -196,6 +196,7 @@
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)                                                   | [py](./python/0033.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [py](./python/0034.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)                                                                   | [py](./python/0035.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [704. Binary Search](https://leetcode.com/problems/binary-search/description/)                                                                                    | [py](./python/0704.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 
 </details>
 
