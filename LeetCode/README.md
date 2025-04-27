@@ -149,6 +149,7 @@
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                                           | [py](./python/0226.py) [go](./golang/0226.go) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [py](./python/0236.py)                        |   ${\textsf{\color{gold}Medium}}$   |
 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)                                           | [py](./python/0404.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
+| [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/)                                 | [py](./python/0652.py)                        |   ${\textsf{\color{gold}Medium}}$   |
 
 <details open>
 <summary><h2>Binary Search Tree</h2></summary>
