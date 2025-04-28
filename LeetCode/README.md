@@ -203,6 +203,7 @@
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)                                                   | [py](./python/0033.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [py](./python/0034.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)                                                                   | [py](./python/0035.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)                                                                           | [py](./python/0074.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/description/)                                                                                    | [py](./python/0704.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 
 </details>
