@@ -7,7 +7,7 @@ class RandomizedSet:
         self.map = {}  # {val: index in arr}
 
     def insert(self, val: int) -> bool:
-        if val in self.arr:
+        if val in self.map:
             return False
 
         self.map[val] = len(self.arr)
