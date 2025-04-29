@@ -204,6 +204,7 @@
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [py](./python/0034.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)                                                                   | [py](./python/0035.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)                                                                           | [py](./python/0074.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)                                      | [py](./python/0153.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)                                                      | [py](./python/0374.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/description/)                                                                                    | [py](./python/0704.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 
