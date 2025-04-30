@@ -156,10 +156,11 @@
 <details open>
 <summary><h2>Binary Search Tree</h2></summary>
 
-| Problem                                                                                                        | Solutions                                     |              Level              |
-| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | :-----------------------------: |
-| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)      | [py](./python/0098.py) [go](./golang/0098.go) | ${\textsf{\color{gold}Medium}}$ |
-| [449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/description/) | [py](./python/0449.py)                        | ${\textsf{\color{gold}Medium}}$ |
+| Problem                                                                                                        | Solutions                                     |                Level                |
+| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | :---------------------------------: |
+| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)      | [py](./python/0098.py) [go](./golang/0098.go) |   ${\textsf{\color{gold}Medium}}$   |
+| [449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/description/) | [py](./python/0449.py)                        |   ${\textsf{\color{gold}Medium}}$   |
+| [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)                           | [py](./python/0938.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
 
 </details>
 
