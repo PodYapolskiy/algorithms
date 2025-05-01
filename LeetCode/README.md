@@ -103,6 +103,7 @@
 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)                                                                | [py](./python/0383.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)                  | [py](./python/0387.py) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)                                            | [py](./python/0567.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)                                                      | [py](./python/0763.py) |   ${\textsf{\color{gold}Medium}}$   |
 | [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/) | [py](./python/2657.py) |   ${\textsf{\color{gold}Medium}}$   |
 
 </details>
