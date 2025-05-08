@@ -150,6 +150,7 @@
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)                       | [py](./python/0104.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)                                       | [py](./python/0110.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
 | [112. Path Sum](https://leetcode.com/problems/path-sum/description/)                                                               | [py](./python/0112.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
+| [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/)                             | [py](./python/0222.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                                           | [py](./python/0226.py) [go](./golang/0226.go) | ${\textsf{\color{lightgreen}Easy}}$ |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [py](./python/0236.py)                        |   ${\textsf{\color{gold}Medium}}$   |
 | [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)                                           | [py](./python/0404.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
