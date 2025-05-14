@@ -13,7 +13,7 @@ class Solution:
         """
         arr = []
 
-        def inorder(node):
+        def inorder(node: TreeNode | None):
             if not node:
                 return
 

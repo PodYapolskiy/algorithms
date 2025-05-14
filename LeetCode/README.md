@@ -161,12 +161,13 @@
 <details open>
 <summary><h2>Binary Search Tree</h2></summary>
 
-| Problem                                                                                                        | Solutions                                     |                Level                |
-| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | :---------------------------------: |
-| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)      | [py](./python/0098.py) [go](./golang/0098.go) |   ${\textsf{\color{gold}Medium}}$   |
-| [449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/description/) | [py](./python/0449.py)                        |   ${\textsf{\color{gold}Medium}}$   |
-| [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)   | [py](./python/0530.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
-| [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)                           | [py](./python/0938.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
+| Problem                                                                                                                                          | Solutions                                     |                Level                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------- | :---------------------------------: |
+| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)                                        | [py](./python/0098.py) [go](./golang/0098.go) |   ${\textsf{\color{gold}Medium}}$   |
+| [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [py](./python/0235.py) [go](./golang/0235.go) |   ${\textsf{\color{gold}Medium}}$   |
+| [449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/description/)                                   | [py](./python/0449.py)                        |   ${\textsf{\color{gold}Medium}}$   |
+| [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)                                     | [py](./python/0530.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
+| [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)                                                             | [py](./python/0938.py)                        | ${\textsf{\color{lightgreen}Easy}}$ |
 
 </details>
 
