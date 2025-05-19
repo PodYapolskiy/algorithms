@@ -253,11 +253,12 @@
 <details open>
 <summary><h2>Dynamic Programming</h2></summary>
 
-| Problem                                                                                                      | Solutions              |              Level              |
-| ------------------------------------------------------------------------------------------------------------ | ---------------------- | :-----------------------------: |
-| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [py](./python/0005.py) | ${\textsf{\color{gold}Medium}}$ |
-| [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/)                                  | [py](./python/0062.py) | ${\textsf{\color{gold}Medium}}$ |
-| [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)                           | [py](./python/0279.py) | ${\textsf{\color{gold}Medium}}$ |
+| Problem                                                                                                      | Solutions              |                Level                |
+| ------------------------------------------------------------------------------------------------------------ | ---------------------- | :---------------------------------: |
+| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [py](./python/0005.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/)                                  | [py](./python/0062.py) |   ${\textsf{\color{gold}Medium}}$   |
+| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                            | [py](./python/0070.py) | ${\textsf{\color{lightgreen}Easy}}$ |
+| [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)                           | [py](./python/0279.py) |   ${\textsf{\color{gold}Medium}}$   |
 
 </details>
 
