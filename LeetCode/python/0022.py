@@ -11,6 +11,10 @@ class Solution:
             self.generate(s + ")", open, close + 1)
 
     def generateParenthesis(self, n: int) -> list[str]:
+        """
+        Time:  O(2^n)
+        Space: O(n)
+        """
         self.n = n
         self.arr = []
 

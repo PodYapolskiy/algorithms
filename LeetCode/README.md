@@ -47,19 +47,19 @@
 <details open>
 <summary><h2>Two pointers</h2></summary>
 
-| Problem                                                                                                                   | Solutions                                    |                Level                |
-| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | :---------------------------------: |
-| [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)                     | [py](./python/0011.py)                       |   ${\textsf{\color{gold}Medium}}$   |
-| [15. 3Sum](https://leetcode.com/problems/3sum/description/)                                                               | [py](./python/0015.py)                       |   ${\textsf{\color{gold}Medium}}$   |
-| [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)                                               | [py](./python/0016.py)                       |   ${\textsf{\color{gold}Medium}}$   |
-| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [py](./python/0026.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
-| [27. Remove Element](https://leetcode.com/problems/remove-element/description/)                                           | [py](./python/0027.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
-| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                                      | [py](./python/0125.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
-| [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)    | [py](./python/0167.py)                       |   ${\textsf{\color{gold}Medium}}$   |
-| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                | [py](./python/0283.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
-| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)                                          | [py](./python/0392.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
-| [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/)                        | [py](./python/0658.py) [c++](./c++/0658.cpp) |   ${\textsf{\color{gold}Medium}}$   |
-| [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)                                | [py](./python/0680.py)                       | ${\textsf{\color{lightgreen}Easy}}$ |
+| Problem                                                                                                                   | Solutions                                                           |                Level                |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | :---------------------------------: |
+| [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)                     | [py](./python/0011.py)                                              |   ${\textsf{\color{gold}Medium}}$   |
+| [15. 3Sum](https://leetcode.com/problems/3sum/description/)                                                               | [py](./python/0015.py)                                              |   ${\textsf{\color{gold}Medium}}$   |
+| [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)                                               | [py](./python/0016.py)                                              |   ${\textsf{\color{gold}Medium}}$   |
+| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [py](./python/0026.py)                                              | ${\textsf{\color{lightgreen}Easy}}$ |
+| [27. Remove Element](https://leetcode.com/problems/remove-element/description/)                                           | [py](./python/0027.py)                                              | ${\textsf{\color{lightgreen}Easy}}$ |
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                                      | [py](./python/0125.py)                                              | ${\textsf{\color{lightgreen}Easy}}$ |
+| [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)    | [py](./python/0167.py)                                              |   ${\textsf{\color{gold}Medium}}$   |
+| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                | [py](./python/0283.py)                                              | ${\textsf{\color{lightgreen}Easy}}$ |
+| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)                                          | [py](./python/0392.py)                                              | ${\textsf{\color{lightgreen}Easy}}$ |
+| [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/)                        | [py](./python/0658.py) [go](./golang/0658.go) [c++](./c++/0658.cpp) |   ${\textsf{\color{gold}Medium}}$   |
+| [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)                                | [py](./python/0680.py)                                              | ${\textsf{\color{lightgreen}Easy}}$ |
 
 </details>
 

@@ -1,5 +1,9 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
+        """
+        Time:  O(n)
+        Space: O(n)
+        """
         if len(s) < 2:  # 0 or 1 length strings
             return len(s)
 
